@@ -1,5 +1,5 @@
 # WordPress DOM Form
-This repository shows an example of how to use `PerryRylance\WordPressDomForm`` to make an options page.
+This repository shows an example of how to use `PerryRylance\WordPressDomForm` to make an options page.
 
 ## Installation
 - Clone this repository in `/wp-content/plugins` on your WordPress installation
